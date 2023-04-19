@@ -8,13 +8,25 @@ This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/A
 - 2GB+ Files will Upload to Streamtape.
 - Others check by your own feeling lazy to describe.
 
-## Demo Bot:
-<a href="https://t.me/AH_VideoMergeBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+  ### 📶 DEPLOYEMENT SUPPORT
 
-### Deploy to Heroku:
-Just Press Below Button to Deploy!
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
+<p>
+<br>                 
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/akrcreation2/VideoMerge-Bot&branch=main&name=LazyMissPerfectGOT" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+<details><summary>🧡Deploy To Heroku🧡</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/akrcreation2/VideoMerge-Bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/VideoMerge-Bot)
 
 ### Support Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
